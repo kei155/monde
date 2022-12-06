@@ -1,0 +1,25 @@
+{
+  "name": "monde",
+  "version": "1.0.0",
+  "description": "typescript web app develop helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kei155/monde.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Kei, Gardeneel <owneul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kei155/monde/issues"
+  },
+  "homepage": "https://github.com/kei155/monde#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
